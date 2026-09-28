@@ -1,0 +1,103 @@
+{
+  "profile": {
+    "name": "Alex Morgan",
+    "role": "Full Stack Developer",
+    "email": "alex@example.com",
+    "phone": "+91 98765 43210",
+    "location": "Hyderabad, India",
+    "availability": "Open to opportunities",
+    "avatar": "https://i.pravatar.cc/300?img=12",
+    "bio": "I build reliable, user-focused digital products with modern web technologies. I enjoy turning complex ideas into clean interfaces and scalable applications.",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com/",
+    "website": "https://example.com/",
+    "resume": ""
+  },
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": 90
+    },
+    {
+      "name": "Python",
+      "level": 85
+    },
+    {
+      "name": "React",
+      "level": 82
+    },
+    {
+      "name": "Node.js",
+      "level": 80
+    },
+    {
+      "name": "SQL",
+      "level": 78
+    },
+    {
+      "name": "Git & GitHub",
+      "level": 88
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart Campus Platform",
+      "description": "A full-stack platform for attendance, events, notices, transport and student services with role-based access.",
+      "tags": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "link": "https://github.com/"
+    },
+    {
+      "name": "AI Career Mentor",
+      "description": "A career planning dashboard that analyzes skills, suggests learning paths and tracks application progress.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "AI"
+      ],
+      "link": "https://github.com/"
+    },
+    {
+      "name": "Weather Intelligence",
+      "description": "Responsive weather dashboard with forecasts, analytics, saved locations and interactive visualizations.",
+      "tags": [
+        "JavaScript",
+        "API",
+        "Charts"
+      ],
+      "link": "https://github.com/"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer Intern",
+      "company": "Tech Solutions",
+      "period": "2025 \u2014 Present",
+      "description": "Developed responsive web modules, REST API integrations and reusable UI components while collaborating through Git."
+    },
+    {
+      "role": "Freelance Developer",
+      "company": "Independent",
+      "period": "2024 \u2014 2025",
+      "description": "Built small business websites and automation tools with a focus on usability, performance and maintainable code."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "QIS College of Engineering and Technology",
+      "period": "2023 \u2014 2027",
+      "description": "Coursework includes data structures, DBMS, operating systems, mobile application development and software engineering."
+    }
+  ],
+  "settings": {
+    "layout": "classic",
+    "accent": "#6d5dfc",
+    "font": "Inter",
+    "showContact": true,
+    "showAvailability": true
+  }
+}
